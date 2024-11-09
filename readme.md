@@ -1,6 +1,6 @@
 Snake
 
-![Game Screenshot](.SnakeGameImage.png/)
+![Game Screenshot](./SnakeGameImage.png)
 
 In this grid-based snake game, the player navigates a snake to consume food and avoid obstacles as it grows. The game begins at Level 1, where the snake’s objective is to collect food, growing longer with each bite. The player wins Level 1 by filling the entire grid with the snake’s body without colliding with the boundaries or the snake itself. With each food item eaten, a new obstacle, or “shit,” appears on the grid, adding difficulty by creating additional hazards the player must navigate around.
 
